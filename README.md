@@ -5,9 +5,9 @@
 
 Please complete these steps to get the project working.
 
-- [x] Create a new project on www.firebase.google.com.
-- [x] Replace the GoogleService-Info.plist.
-- [x] Install the pods on the workspace.
+- [ ] Create a new project on www.firebase.google.com.
+- [ ] Replace the GoogleService-Info.plist.
+- [ ] Install the pods on the workspace.
 
 # NOTE  : 
 
