@@ -3,7 +3,7 @@
 
 # Firebase
 
-Please complete these steps to get the project working.
+Please complete these steps to get the project working:
 
 - [ ] Create a new project on www.firebase.google.com.
 - [ ] Replace the GoogleService-Info.plist.
